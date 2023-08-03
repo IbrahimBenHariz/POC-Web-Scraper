@@ -4,7 +4,6 @@ I designed and implemented a Python-based "Web Scraper" project to delve into th
 
 > Web scraping is the automated process of extracting data from websites. It involves using software tools to navigate web pages, retrieve specific information, and store it in a structured format like a spreadsheet or database. Web scraping is commonly employed for data analysis, research, and content aggregation. However, it's essential to review and comply with the website's terms of service and legal guidelines to avoid potential ethical or legal issues.
 
----
 </br>
 
 ## Prerequisite
