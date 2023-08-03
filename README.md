@@ -1,6 +1,8 @@
 <h1 align="center"><b><i>POC Web Scraper</i></b></h1>
 
-I designed and implemented a Python-based "Web Scraper" project to delve into the realm of sneaker bots and their ability to acquire real-time information on the latest sneaker releases without being detected. The primary objective of this endeavor was to gain insights into the functioning of bot blockers as well. Through this experience, I expanded my understanding of bot systems and bot detectors !
+I designed and implemented a Python-based "Web Scraper" project to delve into the realm of sneaker bots and their ability to acquire real-time information on the latest sneaker releases without being detected. The primary objective of this endeavor was to gain insights into the functioning of bot blockers as well.
+
+> Web scraping is the automated process of extracting data from websites. It involves using software tools to navigate web pages, retrieve specific information, and store it in a structured format like a spreadsheet or database. Web scraping is commonly employed for data analysis, research, and content aggregation. However, it's essential to review and comply with the website's terms of service and legal guidelines to avoid potential ethical or legal issues.
 
 ---
 </br>
