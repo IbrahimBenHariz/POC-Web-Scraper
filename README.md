@@ -6,7 +6,7 @@ I designed and implemented a Python-based "Web Scraper" project to delve into th
 
 </br>
 
-## Prerequisite
+## Prerequisites
 First, you need to install the various libraries for the use of the web scraper (they are imported in the code, but you also need to install them, otherwise, you may encounter errors).
 https://github.com/IbrahimBenHariz/POC-Web-Scraper/blob/008321be30776c1932572795aa80359c82e337b5/POC-Web-Scraper.py#L1-L11
 
